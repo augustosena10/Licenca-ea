@@ -1,0 +1,2 @@
+# Licenca-ea
+forex
