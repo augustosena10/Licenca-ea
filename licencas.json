@@ -1,0 +1,9 @@
+[
+  {
+    "account_id": 12345678,
+    "server": "MetaQuotes-Demo",
+    "name": "João Silva",
+    "status": "active",
+    "expires": NaN
+  }
+]
